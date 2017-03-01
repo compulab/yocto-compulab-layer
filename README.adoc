@@ -1,6 +1,6 @@
 # meta-compulab 
 
-## NXP Boards
+## CompuLab NXP SoC based boards
 This layer can be used separatelly.
 
 * Provides
@@ -16,6 +16,6 @@ $: repo sync
 
 ### Goto to source directory and clone this meta layer:
 [source,console]
-$: git clone https://github.com/compulab/yocto-compulab-layer.git
+$: git clone https://github.com/compulab/yocto-compulab-layer.git meta-compulab
 
 NOTE: Add the meta-compulab location to the conf/bblayers.conf manually.
